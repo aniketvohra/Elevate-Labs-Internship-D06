@@ -1,4 +1,4 @@
-Elevate-Labs-Internship-D06  
+Elevate Labs Internship D06  
 
 Task 6 : Create a Strong Password and Evaluate Its Strength.  
 
