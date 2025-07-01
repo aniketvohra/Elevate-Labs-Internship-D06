@@ -9,7 +9,7 @@ Deliverables: Report showing password strength results and explanation.
 Step 1: Create Multiple Passwords  
 
 Create at least 4–5 passwords with different characteristics:
-- Short: e.g., hello123
+- Short: hello123
 - Medium: Hello2024
 - Strong: H3llo@2024!
 - Very strong: A@8dL!x7#Vz90pQ*
