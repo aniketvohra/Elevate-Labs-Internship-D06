@@ -15,13 +15,13 @@ Create at least 4–5 passwords with different characteristics:
 - Very strong: A@8dL!x7#Vz90pQ*
 
 Step 2: Use Password Strength Checkers
-We are using <a link="https://www.passwordmonster.com">passwordmonster.com</a>
+We are using <a link="https://www.passwordmonster.com">passwordmonster.com</a>  
 <img src="images/1.png">
 <img src="images/2.png">
 <img src="images/3.png">
 +<img src="images/4.png">
 
-Step 3: Compare Results
+Step 3: Compare Results  
 <img src="images/table.png">
 
 Tips:
