@@ -19,7 +19,7 @@ We are using <a link="https://www.passwordmonster.com">passwordmonster.com</a>
 <img src="images/1.png">
 <img src="images/2.png">
 <img src="images/3.png">
-+<img src="images/4.png">
+<img src="images/4.png">
 
 Step 3: Compare Results  
 <img src="images/table.png">
